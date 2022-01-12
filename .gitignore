@@ -1,0 +1,5 @@
+#
+/trash/
+/[Tt]emp/
+"*.temp"
+build/ver1.exe
