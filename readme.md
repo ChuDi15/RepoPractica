@@ -5,3 +5,4 @@ distribuido como Git.
 ## Realizado por DanielBenitez (12/01/2022)
 ## Cambios
 - Añadida página de login
+- Añadida página de registro.
