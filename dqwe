@@ -1,0 +1,41 @@
+[33mcommit c0b82b7a26a3ed7ecd8586144a61b34c4d41358e[m[33m ([m[1;36mHEAD -> [m[1;32mLoginPage[m[33m)[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 13:05:59 2022 +0100
+
+    Añadido estilo al login
+
+[33mcommit 9e5fbe3b06c53b33582f4b16a0dba38c3d86c000[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 13:05:14 2022 +0100
+
+    Creado login.html
+
+[33mcommit 156144bb9057f8788bf9e5110e305a5d8121e327[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 12:58:34 2022 +0100
+
+    Añadida version 2
+
+[33mcommit 08399035ddb7380d274b7d059d48c6c8ad2ca17d[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 12:33:11 2022 +0100
+
+    Añadido el autor y fecha en el README
+
+[33mcommit ea4a96d620e2a80190f26cfae7b217f67ae4cb2a[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 12:29:29 2022 +0100
+
+    Modificacion de readme
+
+[33mcommit b09eaff24d51be39187fb50cfceb211de6b4dacf[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 11:47:54 2022 +0100
+
+    Añadido el archivo README.md
+
+[33mcommit 2e181fa2ea5c5f61fadb2521af71684384b7b423[m
+Author: Daniel <danield2011@outlook.com>
+Date:   Wed Jan 12 11:37:06 2022 +0100
+
+    Primer commit del proyecto
